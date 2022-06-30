@@ -1,1 +1,5 @@
-# potentiostat
+This project is aimed to design a miniaturized, an inexpensive, and easy to use electrochemical potentiostat to meet the demand for on-site measurement. Integration of the potentiostat to a mobile device makes the measuring device portable. Bluetooth technology is chosen to communicate with mobile device as it features both low power and wireless communication. Therefore the potentiostat consist of the following modules: 
+a) Front-end module which drives the sensor and the measures the current. 
+b) power module that generates the stable voltage. 
+c) A back-end module comprised of microcontroller (MCU) to control voltage, digitize and process the data, and Bluetooth module to communicate with the mobile devices. 
+We have created a guide to design, layout, assemble, troubleshoot, and test a Printed circuit board (PCB) that is able conduct electrochemistry measurement. This step by step guide will ultimately allow anyone to develop a portable, accessible, and low-cost potentiostat based on Arduino, together with mobile phone application to control the potentiostat. 
